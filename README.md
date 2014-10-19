@@ -10,12 +10,12 @@ If using the clip with the handlebar mount, you will need:
 
 * 1 M5 bolt, socket head, 12mm-14mm long
 * 1 M5 hex nut
-* 1 M3 bolt, socket head, 25mm-30mm long
+* 1 M3 bolt, any head (thumbscrew preferred), 30mm or longer
 * 1 M3 hex nut
 
 If using the clip with the bottle hole mount (designed to attach to the braze-ons that are typically used to hole water bottle cages) you will need:
 
-* 1 M5 bolt, socket head, 60mm-65mm long
+* 1 M5 bolt, socket head, 30mm-65mm long
 * 1 M5 hex nut
 * 2 M5 bolts of proper length for your braze-ons (probably included with your bike)
 

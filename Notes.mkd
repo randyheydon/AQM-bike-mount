@@ -1,0 +1,48 @@
+# Build notes
+
+## Prototype 1
+
+Kindly printed by Nick, with 30% fill in a crosshatch pattern.  Thoughts:
+
+* Clip is definitely not flexible enough.  Can open by approximately 10 mm
+  across both sides of the clip, but needs to open by ~40 mm to get in the
+  monitor.  Might need just 20 mm, but it's hard to tell without having the AQM
+  on hand.
+* The handlebar mount doesn't really work for my bike.  The double-bent shape
+  of the handlebars doesn't leave enough width for the clip.
+* On top of that, the handlebar mount works great for 25 mm diameter bars (ISO
+  standard), but does not grip on anything smaller, and does not fit on anything
+  larger.
+* The bottle hole mount indented base is way too steep; on my bike, it nestles
+  right in the bottom radius.  That's embarrassing, since I should have checked
+  that better before I completed it.
+* Fasteners are a problem in that my local Canadian Tire only carries one of
+  the several that I need.  Their M5 bolts only go as long as 30 mm, not the 60
+  I need, and they don't have any M3 bolts, only going as small as M4.
+* One more: the recess for the nut in the handlebar clip is too shallow to hold
+  the nut permanently, making it susceptible to being lost.
+
+Things I can do to improve these:
+
+* First, thin the clip walls from 4 mm to 2.5; the area moment should decrease
+  linearly, and deflection should be inversely proportional to that, bringing
+  deflection to 16 mm.  For the rest, I'll open up the ends of the clip by
+  another 20 mm (10 mm per side), giving a total of 36 mm, which is close
+  enough, right?
+* I'll lengthen it by about 3mm for now.  I'm not too concerned with my own
+  bike, since I want to use the bottle hole mount anyways, but some extra space
+  might be useful in the future.
+* Not much can be done on the bar diameter without a serious clamp redesign.
+  I think this will be good enough for standard handlebars for now, and I'll
+  wait for feedback on where else people want to clamp it before I make another
+  mount design.  But to make it slightly more flexible, I'll thin the clamp
+  walls from 3.5mm to 2.5mm.
+* You know what, that angled base idea was dumb anyways.  I'll change it to a
+  flat base so it can be used with washers if available.  And I'll make the
+  whole thing narrower since the width won't be supporting anything.
+* I'll order a bunch of fasteners from McMaster-Carr instead of getting them
+  from Canadian Tire.  More expensive, but I don't need many.  Also, I'll make
+  the nut hole in the bottle hole mount deeper to support bolts down to 30mm.
+* I'll make the ends of the handlebar clamp thicker so as to fully encase an M3
+  nut.  This will require a slightly longer bolt; the README will be updated
+  accordingly.
