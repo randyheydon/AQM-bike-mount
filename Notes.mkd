@@ -3,17 +3,26 @@
 ## Prototype 2
 
 Again printed by Nick, with the same parameters.  Left with Environment
-Hamilton to test, and will add their feedback once I receive it.
+Hamilton to test, and eventually had a chance to try it myself.
 
 * Clip is too flexible, because I messed up my math: deflection should be
   inversely proportional to the *cube* of the thickness, not linearly.  Clip
-  manages to hold the AQM fairly well, and it can be enhanced with an elastic
-  if needed, but it could be stiffer and a little tighter around the AQM.
+  manages to hold the AQM fairly well, and adding an elastic made it much
+  better, but it could be stiffer and a little tighter around the AQM.
+* Some volunteers left the velcro straps on the AQM while clipping it in, using
+  the straps as emergency backups in case the clip let go.  I tried this, and
+  it made the clip not fit the AQM correctly as it wasn't designed for the
+  extra space.  Still, this may be a good thing to allow for.
 * Handlebar mount had a serious failure when trying to attach to too-small
   handlebars.  Cranking the wing nut made it stay on, but it forced the screw
   to dig into the sides of its hole, preventing it from loosening.  Had to pry
   it apart with a claw hammer, which snapped the plastic through the hexagonal
-  recess.  It's still maybe usable, but it was a bad thing to happen.
+  recess.  It's still maybe usable, but I don't think anyone tried.  Probably
+  needs a serious redesign.
+* The bottle hole mount is too weak laterally.  It is only supported against
+  side-to-side motion at the two braze-ons, giving a narrow moment arm.  This
+  results in it splitting the layers next to the bolt holes and swaying very
+  significantly during use.  It's also a little longer than it needs to be.
 
 
 ## Prototype 1
