@@ -24,6 +24,13 @@ Hamilton to test, and eventually had a chance to try it myself.
   results in it splitting the layers next to the bolt holes and swaying very
   significantly during use.  It's also a little longer than it needs to be.
 
+Improvements for the next round:
+
+* Increase clip wall thickness from 2.5 mm to 3 mm.  Based on the first
+  prototype's deflection measurements, this gives a total deflection of 24mm.
+  Combined with the ends having been opened by 20 mm, this should give total
+  opening of 44 mm, close to the 40 mm I previously targeted.
+
 
 ## Prototype 1
 
